@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Brent's GitHub stats](https://github-readme-stats.vercel.app/api?username=renbrent&show_icons=true&theme=algolia)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renbrent&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
